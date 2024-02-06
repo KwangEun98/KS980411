@@ -12,6 +12,7 @@ I have huge interest at DL/ML Field and Sports Data Analysis.
 <br>
 <br>
 🏫 MS Student of Korea University, Seoul / Industrial and Mannagement Engineering (2024-)
+<br>
 🏫 BS Student of Korea University, Seoul / Statistics (2017-2023)
 <div align=left><h4> 🏛️ Career </h4></div>
 - A Member of BOAZ, Bigda Analysis Circle (2023~ )
