@@ -39,9 +39,9 @@ I have huge interest at DL/ML Field and Sports Data Analysis.
  <br>
  1. Machine Learning / Deep Learning
  <br>
- 2. Time Series
+ 2. Time Series Forecasting / Time Series Imputation
  <br>
- 3. Computer Vision
+ 3. Generative Models / Diffusion Models
  <br>
  <br>
  <br>
