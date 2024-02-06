@@ -11,7 +11,7 @@ Hi, My name is Kwang-Eun Cho.
 I have huge interest at DL/ML Field and Sports Data Analysis.
 <br>
 <br>
-🏫 MS Student of Korea University, Seoul / Industrial and Mannagement Engineering (2024-)
+🏫 MS Student of Korea University, Seoul / Industrial and Management Engineering (2024-)
 <br>
 🏫 BS Student of Korea University, Seoul / Statistics (2017-2023)
 <div align=left><h4> 🏛️ Career </h4></div>
@@ -22,6 +22,7 @@ I have huge interest at DL/ML Field and Sports Data Analysis.
 <br>
 <br>
 - A Member of Korea University Sports Data Analysis Data Circle PAINS (2021~ 2023)
+<br>
 <br>
 🪑 The President of PAINS (2021)
 <br>
